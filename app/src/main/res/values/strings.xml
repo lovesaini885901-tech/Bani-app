@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Awaaz AI</string>
+    <string name="assistant_default_name">Jarvis</string>
+    <string name="default_reply_hindi">मैं यहाँ हूँ, मुझे ढूँढ लो!</string>
+    <string name="default_reply_english">I am here, find me!</string>
+    
+    <!-- Notification strings -->
+    <string name="notification_channel_name">Voice Activation Service</string>
+    <string name="notification_channel_desc">Listens for your custom assistant wake word</string>
+    <string name="notification_listening_title">%1$s is listening…</string>
+    <string name="notification_listening_text">Say \"%1$s\" or \"Hey %1$s\" to find your phone</string>
+    <string name="notification_alarm_title">Phone Found!</string>
+    <string name="notification_alarm_text">Alarm is ringing loudly. Tap to dismiss.</string>
+    <string name="action_stop_alarm">Stop Alarm</string>
+    <string name="action_toggle_pause">Pause Listening</string>
+    <string name="action_toggle_resume">Resume</string>
+</resources>

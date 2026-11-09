@@ -1,0 +1,6 @@
+{
+  "name": "Awaaz AI Assistant",
+  "description": "Advanced AI Voice Assistant with customizable wake name, Find My Phone loud alarm, voice reply, Hindi & English support, and lock screen activation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
